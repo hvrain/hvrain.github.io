@@ -136,6 +136,7 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+		trailingSlash:false,
 };
 
 export default config;
